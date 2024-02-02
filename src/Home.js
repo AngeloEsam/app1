@@ -3,7 +3,12 @@ import { Component } from "react";
 class Home extends Component {
   state = {  } 
   render() { 
-    return (<h1>Angelo Esam</h1>);
+    return (
+    <div>
+      <h1>Angelo Esam</h1>
+      <h1>Angelo Esam</h1>
+    </div>
+    );
   }
 }
  
